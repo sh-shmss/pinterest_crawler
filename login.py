@@ -33,9 +33,9 @@ def loginner():
 
     # username = driver.find_element_by_id("email")
     # password = driver.find_element_by_id("password")
-    # # username.send_keys("sh.shmss@gmail.com")
-    # username.send_keys("sshamsko@students.kennesaw.edu")
-    # password.send_keys("Sh22862182")
+    # # username.send_keys("")
+    # username.send_keys("")
+    # password.send_keys("")
     # second_login = driver.find_element_by_xpath("//*[@class='red SignupButton active']")
     # second_login.click()
     # time.sleep(2)
